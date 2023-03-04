@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://YarkoInStat.github.io/rsschool-cv/cv
