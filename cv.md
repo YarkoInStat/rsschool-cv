@@ -1,23 +1,27 @@
 # Iaroslav Gritsenko
 ![](https://sun9-8.userapi.com/impf/c631219/v631219631/6720/lE9RBX_sLHs.jpg?size=2160x1440&quality=96&sign=5ae5a56752ae8b7a76969d1613a30229&type=album)
 
+
 # Contact
-## E-mail: iar.gritsenko@gmail.com
-## Discord: Yarko#1751
+### E-mail: iar.gritsenko@gmail.com
+### Discord: Yarko#1751
+
 
 # Description
-#### I was always around PCs from 1990s, playing a lot of PC games, have a lot of friends who already in IT community and now i think it's time for me to join this feast of life to make some impact for IT.
-#### Jokes aside. I have an engineering structure of the mind. I had some practice with the "main" language of programming at the institute. I worked as a seller of clothes in my youth, magazine designer, design engineer and project manager in IT product with #### PostgreSQL experience around 1,5 year.
+ I was always around PCs from 1990s, playing a lot of PC games, have a lot of friends who already in IT community and now i think it's time for me to join this feast of life to make some impact for IT.
+ Jokes aside. I have an engineering structure of the mind. I had some practice with the "main" language of programming at the institute. I worked as a seller of clothes in my youth, magazine designer, design engineer and project manager in IT product with #### PostgreSQL experience around 1,5 year.
+
 
 # Skills
-#### Great soft skills
-#### PostgreSQL
-#### Analyst
-#### Jira
-#### Git
-#### JSON
-#### CSS
-#### Agile
+ Great soft skills
+ PostgreSQL
+ Analyst
+ Jira
+ Git
+ JSON
+ CSS
+ Agile
+
 
 # Code example
 ## Codewars
