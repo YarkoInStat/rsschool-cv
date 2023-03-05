@@ -7,7 +7,7 @@
 
 # Description
 #### I was always around PCs from 1990s, playing a lot of PC games, have a lot of friends who already in IT community and now i think it's time for me to join this feast of life to make some impact for IT.
-#### Jokes aside. I have an engineering structure of the mind. I had some practice with the "main" language of programming at the institute. I worked as a seller of clothes in my youth, magazine designer, design engineer and project manager in IT product with PostgreSQL experience around 1,5 year.
+#### Jokes aside. I have an engineering structure of the mind. I had some practice with the "BASIC" language of programming at the institute. I worked as a seller of clothes in my youth, magazine designer, design engineer and project manager in IT product with PostgreSQL experience around 1,5 year.
 
 # Skills
 #### Great soft skills
