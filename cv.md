@@ -17,7 +17,7 @@
 #### Git
 #### JSON
 #### CSS
-#### gile
+#### Agile
 
 # Code example
 ## Codewars
