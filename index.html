@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<header>
+    <nav class=""></nav>
+</header>
+<main class="">
+<h1 class="iaroslav-gritsenko">Iaroslav Gritsenko</h1>
+<p><img src="https://sun9-8.userapi.com/impf/c631219/v631219631/6720/lE9RBX_sLHs.jpg?size=2160x1440&quality=96&sign=5ae5a56752ae8b7a76969d1613a30229&type=album" alt=""></p>
+<h1 class="contact">Contact</h1>
+<h4 class="e-mail">E-mail: iar.gritsenko@gmail.com</h4>
+<h4 class="discord-yarko1751">Discord: Yarko#1751</h4>
+<h1 class="description">Description</h1>
+<h4 class="i-was">I was always around PCs from 1990s, playing a lot of PC games, have a lot of friends who already in IT community and now i think it&#39;s time for me to join this feast of life to make some impact for IT.</h4>
+<h4 class="jokes-aside">Jokes aside. I have an engineering structure of the mind. I had some practice with the &quot;BASIC&quot; language of programming at the institute. I worked as a seller of clothes in my youth, magazine designer, design engineer and project manager in IT product with PostgreSQL experience around 1,5 year.</h4>
+<h1 class="skills">Skills</h1>
+<h4 class="great-soft-skills">Great soft skills</h4>
+<h4 class="postgresql">PostgreSQL</h4>
+<h4 class="analyst">Analyst</h4>
+<h4 class="jira">Jira</h4>
+<h4 class="git">Git</h4>
+<h4 class="json">JSON</h4>
+<h4 class="css">CSS</h4>
+<h4 class="agile">Agile</h4>
+<h1 class="code-example">Code example</h1>
+<h2 class="codewars">Codewars</h2>
+<h3 class="task">Task</h3>
+<h4 class="given-two">Given two arrays a and b write a function comp(a, b) (orcompSame(a, b)) that checks whether the two arrays have the &quot;same&quot; elements, with the same multiplicities (the multiplicity of a member is the number of times it appears). &quot;Same&quot; means, here, that the elements in b are the elements in a squared, regardless of the order.</h4>
+<h3 class="solution">Solution</h3>
+<pre><code class="language-javascript">function comp(array1, array2) {
+    let result = true;
+    if (array1 === [] || array2 === [] || array1 === null || array2 === null) {
+        return false
+    }
+    let arr1 = array1.sort((a, b) =&gt; a - b).map(a =&gt; a * a);
+    let arr2 = array2.sort((a, b) =&gt; a - b).map(a =&gt; a);
+
+    for (let i = 0; i &lt; arr2.length; i++) {
+        if (arr2[i] !== arr1[i]) {
+            return false
+        }
+    }
+    return result
+};
+</code></pre>
+<h1 class="work-experience">Work experience</h1>
+<h4 class="experience">1,5 years Middle Project Manager of InStat</h4>
+<h1 class="education">Education</h1>
+<h4 class="1-year">1 year of Moscow State Institute of Electronic Technology</h4>
+<h4 class="full-education">Full education of the Russian State University of Trade and Economics (Master, Specialist)</h4>
+<h4 class="rs-school-jsfrontend-stage-0">RS School JS/Frontend Stage #0</h4>
+<h4 class="rs-school-jsfrontend-stage-1">RS School JS/Frontend Stage #1-2 (in progress)</h4>
+<h1 class="english-level">English level</h1>
+<h4 class="i-hope-so-still-b2">I hope so still B2.</h4>
+<h4 class="lived">Lived 1 month in Prague and Berlin for the work.</h4>
+</main>
+</body>
+</html>
